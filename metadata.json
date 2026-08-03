@@ -1,0 +1,6 @@
+{
+  "name": "Waterloo Supermarket",
+  "description": "24-Hour Supermarket & Convenience Store in Central London offering fresh groceries, drinks, household essentials, travel items, key cutting, and currency exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
